@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielgiedraitis&label=Profile%20views&color=0e75b6&style=flat" alt="Nojus" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/N090?tab=repositories](https://github.com/N090?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Nojus-Satikauskas](https://github.com/Nojus-Satikauskas?tab=repositories)
 
 - 📫 How to reach me **nojusatikaus@gmail.com**
 
-- 📄 Know about my experiences [https://N090.github.io/PersonalWebsite/](https://N090.github.io/PersonalWebsite/)
+- 📄 Know about my experiences [https://Nojus-Satikauskas/PersonalWebsite/](https://Nojus-Satikauskas/PersonalWebsite/)
 
 ### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nojus-satikauskas-111231225)
