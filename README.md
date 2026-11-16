@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nojusatikaus@gmail.com**
 
-- 📄 Know about my experiences [https://Nojus-Satikauskas/PersonalWebsite/]([https://nojus-satikauskas.github.io/PersonalWebsite/])
+- 📄 Know about my experiences [https://Nojus-Satikauskas/PersonalWebsite/](https://nojus-satikauskas.github.io/PersonalWebsite/)
 
 ### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nojus-satikauskas-111231225)
